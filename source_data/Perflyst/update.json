@@ -1,0 +1,22 @@
+{
+    "name": "Perflyst",
+    "description": "",
+    "homeurl": "",
+    "issues": "",
+    "files": [
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt"
+        }
+    ],
+    "license": "",
+    "active": true
+}

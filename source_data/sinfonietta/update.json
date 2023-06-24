@@ -1,0 +1,26 @@
+{
+    "name": "Sinfonietta's blocking hosts files",
+    "description": "A collection of category-specific host files.",
+    "homeurl": "https://github.com/Sinfonietta/hostfiles",
+    "issues": "https://github.com/Sinfonietta/hostfiles/issues",
+    "files": [
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/snuff-hosts"
+        },
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts"
+        },
+        {
+            "output": "gambling",
+            "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts"
+        },
+        {
+            "output": "social",
+            "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts"
+        }
+    ],
+    "license": "MIT",
+    "active": true
+}

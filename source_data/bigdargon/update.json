@@ -1,0 +1,18 @@
+{
+    "name": "BigDargon's domain blocking hosts files",
+    "description": "Extension from the project hostsVN",
+    "homeurl": "https://github.com/bigdargon/hostsVN/",
+    "issues": "https://github.com/bigdargon/hostsVN/issues",
+    "files": [
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/adult/hosts-VN"
+        },
+        {
+            "output": "gambling",
+            "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts"
+        }
+    ],
+    "license": "MIT",
+    "active": true
+}

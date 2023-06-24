@@ -1,0 +1,14 @@
+{
+    "name": "brijrajparmar27 - pornography",
+    "description": "hosts files for DNS based content blocking",
+    "homeurl": "https://github.com/brijrajparmar27/host-sources",
+    "issues": "https://github.com/brijrajparmar27/host-sources/issues",
+    "files": [
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/brijrajparmar27/host-sources/master/Porn/hosts"
+        }
+    ],
+    "license": "CC BY 4.0",
+    "active": true
+}

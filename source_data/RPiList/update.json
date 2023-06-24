@@ -1,0 +1,70 @@
+{
+    "name": "RPiList",
+    "description": "",
+    "homeurl": "",
+    "issues": "",
+    "files": [
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock1"
+        },
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock2"
+        },
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock3"
+        },
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock4"
+        },
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock5"
+        },
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/pornblock6"
+        },
+        {
+            "output": "gambling",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling"
+        },
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming"
+        },
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung"
+        },
+        {
+            "output": "base",
+            "url": "https://v.firebog.net/hosts/RPiList-Malware.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://v.firebog.net/hosts/RPiList-Phishing.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry"
+        },
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious"
+        }
+    ],
+    "license": "",
+    "active": true
+}
+
+
+
+
+
+
+
+

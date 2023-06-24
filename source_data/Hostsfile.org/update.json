@@ -1,0 +1,14 @@
+{
+    "name": "Hostsfile.org",
+    "description": "A list designed to run nexct to a PAC filter",
+    "homeurl": "https://www.hostsfile.org/hosts.html",
+    "issues": "http://hostsfile.org/contact.html",
+    "files": [
+        {
+            "output": "base",
+            "url": "http://hostsfile.org/Downloads/hosts.txt"
+        }
+    ],
+    "license": "GPLv3+",
+    "active": true
+}

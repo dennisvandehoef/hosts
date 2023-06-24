@@ -1,0 +1,14 @@
+{
+    "name": "pornhosts -- a consolidated anti porn hosts file",
+    "description": "This is an endeavour to find all porn domains and compile them into a single hosts to allow for easy blocking of porn on your local machine or on a network.",
+    "homeurl": "https://github.com/Clefspeare13/pornhosts",
+    "issues": "https://github.com/Clefspeare13/pornhosts/issues",
+    "files": [
+        {
+            "output": "porn",
+            "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/clefspeare13/hosts"
+        }
+    ],
+    "license": "MIT",
+    "active": true
+}

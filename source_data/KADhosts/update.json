@@ -1,0 +1,14 @@
+{
+    "name": "KADhosts",
+    "description": "Fraud/adware/scam websites.",
+    "homeurl": "https://kadantiscam.netlify.app/",
+    "issues": "https://github.com/PolishFiltersTeam/KADhosts/issues",
+    "files": [
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
+        }
+    ],
+    "license": "CC BY-SA 4.0",
+    "active": true
+}

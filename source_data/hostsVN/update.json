@@ -1,0 +1,14 @@
+{
+    "name": "hostsVN",
+    "description": "Hosts block ads of Vietnamese",
+    "homeurl": "https://github.com/bigdargon/hostsVN",
+    "issues": "https://github.com/bigdargon/hostsVN/issues",
+    "files": [
+        {
+            "output": "base",
+            "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN"
+        }
+    ],
+    "license": "MIT",
+    "active": true
+}

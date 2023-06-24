@@ -1,0 +1,4 @@
+output/
+!output/.keep
+source_data/
+!source_data/**/*.json

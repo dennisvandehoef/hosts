@@ -1,0 +1,34 @@
+{
+    "name": "blocklistproject",
+    "description": "",
+    "homeurl": "",
+    "issues": "",
+    "files": [
+        {
+            "output": "base",
+            "url": "https://blocklistproject.github.io/Lists/ads.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://blocklistproject.github.io/Lists/tracking.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://blocklistproject.github.io/Lists/scam.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://blocklistproject.github.io/Lists/phishing.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://blocklistproject.github.io/Lists/malware.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://blocklistproject.github.io/Lists/fraud.txt"
+        }
+    ],
+    "license": "",
+    "active": true
+}

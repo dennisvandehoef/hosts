@@ -1,0 +1,14 @@
+{
+    "name": "Marktron Fake News",
+    "description": "An in-progress collection of fake news outlets.",
+    "homeurl": "https://github.com/marktron/fakenews",
+    "issues": "https://github.com/marktron/fakenews/issues",
+    "files": [
+        {
+            "output": "fakenews",
+            "url": "https://raw.githubusercontent.com/marktron/fakenews/master/fakenews"
+        }
+    ],
+    "license": "MIT",
+    "active": true
+}

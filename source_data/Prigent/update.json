@@ -1,0 +1,22 @@
+{
+    "name": "Prigent",
+    "description": "",
+    "homeurl": "",
+    "issues": "",
+    "files": [
+        {
+            "output": "base",
+            "url": "https://v.firebog.net/hosts/Prigent-Crypto.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://v.firebog.net/hosts/Prigent-Ads.txt"
+        },
+        {
+            "output": "base",
+            "url": "https://v.firebog.net/hosts/Prigent-Malware.txt"
+        }
+    ],
+    "license": "",
+    "active": true
+}
